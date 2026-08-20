@@ -3,7 +3,7 @@
 Segmenting ~4,300 customers of a UK online retailer using RFM (Recency, Frequency, Monetary) analysis to identify high-value customers, at-risk customers, and growth opportunities.
 
 ## Dashboard Preview
-![Dashboard](visuals/dashboard_preview.png)
+![Dashboard](visualsdashboard_preview.png)
 
 ## Business Question
 Which customers are most valuable, and which are at risk of churning? How should marketing efforts be prioritized across customer groups?
